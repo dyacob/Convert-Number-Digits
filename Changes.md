@@ -1,5 +1,8 @@
 # Revision History for the Convert::Number::Digits Perl Distribution
 
+## 0.06 Mon Feb 10 18:35:42 EST 2025
+	- Fix to some markdown.
+
 ## 0.05 Sun Feb  9 17:27:50 EST 2025
 	- Migration to a Build.PL & GitHub system.
 
